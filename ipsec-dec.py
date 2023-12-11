@@ -1,11 +1,11 @@
 # -*- coding: UTF-8 -*-
 #/**
-# * Software Name : WebServer for IPsec (GPL)
-# * Function: Webserver for IPsec
+# * Software Name : decoder for IPsec (GPL)
+# * Function: decoder for IPsec 
 # * Version : 1.0
 # *
 # *--------------------------------------------------------
-# * File Name : ipsec.py
+# * File Name : ipsec-dec.py
 # * Authors   : Yi-Hsueh (Lucas) Tsai
 # * License   : GPL
 # *--------------------------------------------------------
